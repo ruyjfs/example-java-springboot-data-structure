@@ -12,4 +12,4 @@ For study, delete and create a new `response` path with you logic.
 Esse projeto usa o Gradlew como gerenciador de indepedência, para rodar basta abrir na IDE, instalar e rodar cada classe individualmente.
 
 Os exercicios estão na pasta `question` e as respostas na pasta `response`.
-Para estudar, delete a pasta `response` e crie uma nova com as sua logica de respostas.
+Para estudar, delete a pasta `response` e crie uma nova com a sua logica de respostas.
