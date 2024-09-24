@@ -3,8 +3,8 @@
 
 This project use Gradlew, for run just open you IDE install and run any Class individual.
 
-The questions stay on question path and responses on response path.
-For study, delete and create a new response path with you logic.
+The questions stay on `question` path and responses on `response` path.
+For study, delete and create a new `response` path with you logic.
 
 # Português
 ### Exemplos de Estrutura de Dados no Java com Springboot
